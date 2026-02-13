@@ -1,0 +1,8 @@
+URxvt.background: #26252D
+URxvt.foreground: green
+URxvt.scrollBar: false
+URxvt.cursorBlink: true
+URxvt.transparent: true
+URxvt.shading: 60
+URxvt.font: xft:ubuntu mono:style=Regular:pixelsize=14
+URxvt.boldFont: xft:ubuntu mono:style=Bold:pixelsize=14
